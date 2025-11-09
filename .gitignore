@@ -1,8 +1,32 @@
-# Project place file
-/roblox-farm.rbxlx
+# Roblox
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
 
-# Roblox Studio lock files
-/*.rbxlx.lock
-/*.rbxl.lock
+# Rojo
+/build
 
+# Wally
+/Packages
+/DevPackages
+
+# Foreman
+/.foreman
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Sourcemap
 sourcemap.json
